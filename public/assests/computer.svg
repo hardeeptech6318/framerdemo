@@ -1,0 +1,107 @@
+<svg
+          width="194"
+          height="209"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          id="svg1851964315_2311"
+        >
+          <g filter="url(#svg1851964315_2311_a)">
+            <rect
+              x="9"
+              y="2"
+              width="176"
+              height="176"
+              rx="88"
+              fill="url(#svg1851964315_2311_b)"
+            ></rect>
+            <path
+              d="M95 122.24V93H58c-.56 0-1 .44-1 1 0 8 4 12 12 12h16v13H75c-1.64 0-3 1.36-3 3s1.36 3 3 3h20.2c-.12-.88-.2-1.8-.2-2.76ZM117 50H69c-8 0-12 4-12 12v24c0 .56.44 1 1 1h37.2c1.04-6.84 6-11 13.52-11h19.08c.84 0 1.2-.72 1.2-1.2V62c0-8-4-12-12-12Zm12.284 32h-20.572c-5.144 0-7.716 2.588-7.716 7.768v32.464c0 5.18 2.572 7.768 7.716 7.768h20.572c5.144 0 7.716-2.588 7.716-7.768V89.768c0-5.18-2.572-7.768-7.716-7.768ZM119 124c-2.208 0-4-1.792-4-4s1.792-4 4-4 4 1.792 4 4-1.792 4-4 4Z"
+              fill="#fff"
+            ></path>
+          </g>
+          <defs>
+            <linearGradient
+              id="svg1851964315_2311_b"
+              x1="97"
+              y1="2"
+              x2="97"
+              y2="178"
+              gradientUnits="userSpaceOnUse"
+            >
+              <stop stop-color="#F38744"></stop>
+              <stop offset="1" stop-color="#FF7262"></stop>
+            </linearGradient>
+            <filter
+              id="svg1851964315_2311_a"
+              x="0"
+              y="0"
+              width="194"
+              height="209"
+              filterUnits="userSpaceOnUse"
+              color-interpolation-filters="sRGB"
+            >
+              <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+              <feColorMatrix
+                in="SourceAlpha"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha"
+              ></feColorMatrix>
+              <feOffset dy="1"></feOffset>
+              <feGaussianBlur stdDeviation="1.5"></feGaussianBlur>
+              <feColorMatrix
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0"
+              ></feColorMatrix>
+              <feBlend
+                in2="BackgroundImageFix"
+                result="effect1_dropShadow_84_676"
+              ></feBlend>
+              <feColorMatrix
+                in="SourceAlpha"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha"
+              ></feColorMatrix>
+              <feOffset dy="5"></feOffset>
+              <feGaussianBlur stdDeviation="2.5"></feGaussianBlur>
+              <feColorMatrix
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0"
+              ></feColorMatrix>
+              <feBlend
+                in2="effect1_dropShadow_84_676"
+                result="effect2_dropShadow_84_676"
+              ></feBlend>
+              <feColorMatrix
+                in="SourceAlpha"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha"
+              ></feColorMatrix>
+              <feOffset dy="12"></feOffset>
+              <feGaussianBlur stdDeviation="3.5"></feGaussianBlur>
+              <feColorMatrix
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.03 0"
+              ></feColorMatrix>
+              <feBlend
+                in2="effect2_dropShadow_84_676"
+                result="effect3_dropShadow_84_676"
+              ></feBlend>
+              <feColorMatrix
+                in="SourceAlpha"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha"
+              ></feColorMatrix>
+              <feOffset dy="22"></feOffset>
+              <feGaussianBlur stdDeviation="4.5"></feGaussianBlur>
+              <feColorMatrix
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.01 0"
+              ></feColorMatrix>
+              <feBlend
+                in2="effect3_dropShadow_84_676"
+                result="effect4_dropShadow_84_676"
+              ></feBlend>
+              <feBlend
+                in="SourceGraphic"
+                in2="effect4_dropShadow_84_676"
+                result="shape"
+              ></feBlend>
+            </filter>
+          </defs>
+        </svg>
